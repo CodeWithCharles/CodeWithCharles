@@ -25,6 +25,10 @@ Ce que j'ai travaillé jusqu'à maintenant (Gardez à l'esprit que je ne suis pa
 
 Comme vous pouvez le constater, beaucoup de choses.
 
+Ce que j'apprends en ce moment :
+
+Je suis curieux à propos de React Native, je pense que le framework peut-être très intéressant.
+
 Mes informations de contact :
 
 charles.probe@gmail.com
