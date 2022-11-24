@@ -1,6 +1,6 @@
 Hello,
 
-I'm Charles POULAIN, and I'm a developer. I'm not yet specialized in a specific technology, but I have tried a lot of things. I define myself as a self taught developer. I really enjoy programming in all of its shapes, and that's a real passion to me.
+I'm Charles POULAIN, developer. I'm not yet specialized in a specific technology, but I have tried a lot of things. I define myself as a self taught developer. I really enjoy programming in all of its shapes, and that's a real passion to me.
 
 What did I worked with until now  :
 
