@@ -1,20 +1,18 @@
 Hello,
 
-I'm Charles POULAIN, developer. I'm not yet specialized in a specific technology, but I have tried a lot of things. I define myself as a self taught developer. I really enjoy programming in all of its shapes, and that's a real passion to me.
+I'm Charles POULAIN, back-end developer. I've tried a lot of different things which I upload there. I define myself as a self taught developer. I really enjoy programming in all of its shapes, and that's a real passion to me.
 
-What did I worked with until now  :
+What I have worked with until now  :
 
-- HTML-CSS
-- JavaScript - jQuery - Node JS
+- Node JS
 - PHP - Symfony
 - C# - WPF
-- Python (Flask and data analysis)
-- Lua (Using the minecraft mod called OpenComputer. I did a python server on a Ovh VPS, and used it to communicate with my in-game computers to control systems)
+- Python
 - Java (I created some mods and minecraft plugins)
 - Arduino
-- MySQL - SQL Server - SQL - T-SQL - Meurise - PhpMyAdmin...
+- MySQL - SQL - T-SQL etc.
 
-Currently I would like to learn more about Docker and Kubernetes. I have more of a back-end profile.
+I am currently trying to discord the huge iceberg of Neural Network and Deep Learning with Python.
 
 How to contact me :
 
