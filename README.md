@@ -1,17 +1,15 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Charles POULAIN</h1>
   <h3 align="center">A passionate developer and student at 42 Le Havre from France</h3>
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 40px; width: 100%; height: 200px;">
-    <a href="https://github.com/oakoudad/badge42" style="flex: 1; display: flex; justify-content: center; align-items: center; height: 100%;">
-      <img src="https://badge.mediaplus.ma/greenbinary/cpoulain?1337Badge=off&UM6P=off" alt="cpoulain's 42 stats" style="max-height: 100%; max-width: auto;" />
+  <div style="display: flex; justify-content: center; align-items: center; gap: 40px; width: 100%; height: auto;">
+    <a href="https://github.com/oakoudad/badge42" style="flex: 1; display: flex; justify-content: center; align-items: center;">
+      <img src="https://badge.mediaplus.ma/greenbinary/cpoulain?1337Badge=off&UM6P=off" alt="cpoulain's 42 stats" style="width: 100%; max-width: 300px; height: auto;" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; display: flex; justify-content: center; align-items: center; height: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=CodeWithCharles&show_icons=true&theme=radical" alt="CodeWithCharles' GitHub stats" style="max-height: 100%; max-width: auto;" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; display: flex; justify-content: center; align-items: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=CodeWithCharles&show_icons=true&theme=radical" alt="CodeWithCharles' GitHub stats" style="width: 100%; max-width: 300px; height: auto;" />
     </a>
   </div>
 </div>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithcharles&label=Profile%20views&color=0e75b6&style=flat" alt="codewithcharles" /> </p>
 
