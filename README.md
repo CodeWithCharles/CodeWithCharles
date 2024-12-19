@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Charles POULAIN</h1>
   <h3 align="center">A passionate developer and student at 42 Le Havre from France</h3>
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; width: 100%; max-width: 600px; margin: auto;">
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; width: 100%; max-width: 300px; margin: auto;">
     <a href="https://github.com/oakoudad/badge42" style="flex: 1; display: flex; justify-content: center; align-items: center;">
       <img src="https://badge.mediaplus.ma/greenbinary/cpoulain?1337Badge=off&UM6P=off" alt="cpoulain's 42 stats" style="width: 100%; height: auto; max-height: 150px;" />
     </a>
