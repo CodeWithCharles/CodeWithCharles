@@ -10,9 +10,7 @@
     </a>
   </div>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithcharles&label=Profile%20views&color=0e75b6&style=flat" alt="codewithcharles" /> </p>
-
+#
 - 🔭 I’m currently working on [fdf](https://github.com/CodeWithCharles/42_fdf)
 
 - 🌱 I’m currently learning **C, bash**
