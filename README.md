@@ -42,7 +42,7 @@
         <td align="center">ft_printf - 125 / 125 ✅ ✨✨✨</td>
       </tr>
       <tr>
-        <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_born2beroote.png" alt="Born2BeRoot repo"></a></td>
+        <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" alt="Born2BeRoot repo"></a></td>
         <td align="center">Born2BeRoot - 125 / 125 ✅ ✨✨</td>
       </tr>
       <tr>
