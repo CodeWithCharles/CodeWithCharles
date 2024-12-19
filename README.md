@@ -13,14 +13,6 @@
 
 #
 
-- 🔭 I’m currently working on [fdf](https://github.com/CodeWithCharles/42_fdf)
-
-- 🌱 I’m currently learning **C, bash**
-
-- 👨‍💻 All of my projects are available at [https://github.com/CodeWithCharles](https://github.com/CodeWithCharles)
-
-- 💬 Ask me about **C#, C++, C**
-
 - 📫 How to reach me **charles.probe@gmail.com**
 
 #
