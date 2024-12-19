@@ -10,7 +10,9 @@
     </a>
   </div>
 </div>
+
 #
+
 - 🔭 I’m currently working on [fdf](https://github.com/CodeWithCharles/42_fdf)
 
 - 🌱 I’m currently learning **C, bash**
