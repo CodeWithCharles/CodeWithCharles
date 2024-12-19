@@ -58,13 +58,9 @@
 
 </div>
 
-#
-
 <div align="center">
     <h2>Personal Projects : ❤️‍🔥</h2>
 </div>
-
-#
 
 <div align="center">
     <h2>Contact Me : 📱</h2>
