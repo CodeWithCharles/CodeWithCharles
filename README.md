@@ -50,8 +50,8 @@
         <td align="center">Pipex - 125 / 125 ✅ ✨✨✨</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/CodeWithCharles/42_fdf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/fdfn.png" alt="FdF repo"></a></td>
-        <td align="center">FdF - WIP / 125 🛠️</td>
+        <td><a href="https://github.com/CodeWithCharles/42_fdf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/fdfm.png" alt="FdF repo"></a></td>
+        <td align="center">FdF - 125 / 125 ✅ ✨✨✨</td>
       </tr>
     </tbody>
   </table>
