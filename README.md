@@ -31,27 +31,31 @@
     <tbody>
       <tr>
         <td><a href="https://github.com/CodeWithCharles/42_libft"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="Libft repo"></a></td>
-        <td align="center">LIBFT - 125 / 125 ✅ ✨✨✨</td>
+        <td align="center">LIBFT - 125 / 100 ✅ ✨✨✨</td>
       </tr>
       <tr>
         <td><a href="https://github.com/CodeWithCharles/42_get_next_line"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="Get_Next_Line repo"></a></td>
-        <td align="center">Get_Next_Line - 125 / 125 ✅ ✨✨✨</td>
+        <td align="center">Get_Next_Line - 125 / 100 ✅ ✨✨✨</td>
       </tr>
       <tr>
         <td><a href="https://github.com/CodeWithCharles/42_ft_printf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfm.png" alt="Printf repo"></a></td>
-        <td align="center">ft_printf - 125 / 125 ✅ ✨✨✨</td>
+        <td align="center">ft_printf - 125 / 100 ✅ ✨✨✨</td>
       </tr>
       <tr>
         <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" alt="Born2BeRoot repo"></a></td>
-        <td align="center">Born2BeRoot - 125 / 125 ✅ ✨✨</td>
+        <td align="center">Born2BeRoot - 125 / 100 ✅ ✨✨</td>
       </tr>
       <tr>
         <td><a href="https://github.com/CodeWithCharles/42_pipex"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="Pipex repo"></a></td>
-        <td align="center">Pipex - 125 / 125 ✅ ✨✨✨</td>
+        <td align="center">Pipex - 125 / 100 ✅ ✨✨✨</td>
       </tr>
       <tr>
         <td><a href="https://github.com/CodeWithCharles/42_fdf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/fdfm.png" alt="FdF repo"></a></td>
-        <td align="center">FdF - 125 / 125 ✅ ✨✨✨</td>
+        <td align="center">FdF - 125 / 100 ✅ ✨✨✨</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CodeWithCharles/42_push_swap"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swap.png" alt="FdF repo"></a></td>
+        <td align="center">FdF - 84 / 100 ✅ </td>
       </tr>
     </tbody>
   </table>
