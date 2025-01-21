@@ -61,6 +61,10 @@
         <td><a href="https://github.com/CodeWithCharles/42_philosophers"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" alt="Philosophers repo"></a></td>
         <td align="center">Philosophers - WIP... </td>
       </tr>
+      <tr>
+        <td><a href="https://github.com/CodeWithCharles/42_minishell"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png" alt="Minishell repo"></a></td>
+        <td align="center">Minishell - WIP... </td>
+      </tr>
     </tbody>
   </table>
 
