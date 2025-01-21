@@ -54,7 +54,7 @@
         <td align="center">FdF - 125 / 100 ✅ ✨✨✨</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/CodeWithCharles/42_push_swap"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swap.png" alt="FdF repo"></a></td>
+        <td><a href="https://github.com/CodeWithCharles/42_push_swap"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="FdF repo"></a></td>
         <td align="center">FdF - 84 / 100 ✅ </td>
       </tr>
     </tbody>
