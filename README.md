@@ -54,8 +54,12 @@
         <td align="center">FdF - 125 / 100 ✅ ✨✨✨</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/CodeWithCharles/42_push_swap"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="FdF repo"></a></td>
-        <td align="center">FdF - 84 / 100 ✅ </td>
+        <td><a href="https://github.com/CodeWithCharles/42_push_swap"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="Push_Swap repo"></a></td>
+        <td align="center">Push_Swap - 84 / 100 ✅ </td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CodeWithCharles/42_philosophers"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" alt="Philosophers repo"></a></td>
+        <td align="center">Philosophers - WIP... </td>
       </tr>
     </tbody>
   </table>
