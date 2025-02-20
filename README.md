@@ -59,11 +59,11 @@
       </tr>
       <tr>
         <td><a href="https://github.com/CodeWithCharles/42_philosophers"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" alt="Philosophers repo"></a></td>
-        <td align="center">Philosophers - 100/100 ✅ </td>
+        <td align="center">Philosophers - 100/100 ✅ ✨</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/CodeWithCharles/42_minishell"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png" alt="Minishell repo"></a></td>
-        <td align="center">Minishell - WIP... </td>
+        <td><a href="https://github.com/CodeWithCharles/42_minishell"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="Minishell repo"></a></td>
+        <td align="center">Minishell - 101/100 ✅ ✨</td>
       </tr>
     </tbody>
   </table>
