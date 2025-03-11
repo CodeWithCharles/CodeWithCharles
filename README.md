@@ -3,7 +3,7 @@
   <h3 align="center">A passionate developer and student at 42 Le Havre from France</h3>
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 40px; max-width: 800px; margin: auto;">
     <a href="https://github.com/oakoudad/badge42" style="display: block; flex: 1; text-align: center;">
-      <img src="https://badge.mediaplus.ma/greenbinary/cpoulain?1337Badge=off&UM6P=off" alt="cpoulain's 42 stats" style="max-width: 100%; height: auto; max-height: 150px;" />
+      <img src="https://badge.mediaplus.ma/greenbinary/cpoulain" alt="cpoulain's 42 stats" style="max-width: 100%; height: auto; max-height: 150px;" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block; flex: 1; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=CodeWithCharles&show_icons=true&theme=radical" alt="CodeWithCharles' GitHub stats" style="max-width: 100%; height: auto; max-height: 150px;" />
