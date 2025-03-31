@@ -65,6 +65,10 @@
         <td><a href="https://github.com/CodeWithCharles/42_minishell"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="Minishell repo"></a></td>
         <td align="center">Minishell - 101/100 ✅ ✨</td>
       </tr>
+      <tr>
+        <td><a href="https://github.com/CodeWithCharles/42_cub3d"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" alt="Cube3d repo"></a></td>
+        <td align="center">Cub3D - 125/100 ✅ ✨✨✨</td>
+      </tr>
     </tbody>
   </table>
 
