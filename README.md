@@ -24,53 +24,88 @@
 
 <div align="center">
 
-  <table>
-    <thead>
-      <tr><h2>My completed 42 Projects 🚀</h2><h4><i>Click on the badge to view the repo</i> 😉</h4></tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://github.com/CodeWithCharles/42_libft"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="Libft repo"></a></td>
-        <td align="center">LIBFT - 125 / 100 ✅ ✨✨✨</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/CodeWithCharles/42_get_next_line"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="Get_Next_Line repo"></a></td>
-        <td align="center">Get_Next_Line - 125 / 100 ✅ ✨✨✨</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/CodeWithCharles/42_ft_printf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfm.png" alt="Printf repo"></a></td>
-        <td align="center">ft_printf - 125 / 100 ✅ ✨✨✨</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" alt="Born2BeRoot repo"></a></td>
-        <td align="center">Born2BeRoot - 125 / 100 ✅ ✨✨</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/CodeWithCharles/42_pipex"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="Pipex repo"></a></td>
-        <td align="center">Pipex - 125 / 100 ✅ ✨✨✨</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/CodeWithCharles/42_fdf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/fdfm.png" alt="FdF repo"></a></td>
-        <td align="center">FdF - 125 / 100 ✅ ✨✨✨</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/CodeWithCharles/42_push_swap"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="Push_Swap repo"></a></td>
-        <td align="center">Push_Swap - 84 / 100 ✅ </td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/CodeWithCharles/42_philosophers"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" alt="Philosophers repo"></a></td>
-        <td align="center">Philosophers - 100/100 ✅ ✨</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/CodeWithCharles/42_minishell"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="Minishell repo"></a></td>
-        <td align="center">Minishell - 101/100 ✅ ✨</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/CodeWithCharles/42_cub3d"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" alt="Cube3d repo"></a></td>
-        <td align="center">Cub3D - 125/100 ✅ ✨✨✨</td>
-      </tr>
-    </tbody>
-  </table>
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">
+        <h2>My completed 42 Projects 🚀</h2>
+        <h4><i>Click on the badge to view the repo</i> 😉</h4>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_libft">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="Libft repo">
+        </a><br>
+        LIBFT - 125 / 100 ✅ ✨✨✨
+      </td>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_get_next_line">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="Get_Next_Line repo">
+        </a><br>
+        Get_Next_Line - 125 / 100 ✅ ✨✨✨
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_ft_printf">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfm.png" alt="Printf repo">
+        </a><br>
+        ft_printf - 125 / 100 ✅ ✨✨✨
+      </td>
+      <td align="center">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" alt="Born2BeRoot repo">
+        </a><br>
+        Born2BeRoot - 125 / 100 ✅ ✨✨
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_pipex">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="Pipex repo">
+        </a><br>
+        Pipex - 125 / 100 ✅ ✨✨✨
+      </td>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_fdf">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/fdfm.png" alt="FdF repo">
+        </a><br>
+        FdF - 125 / 100 ✅ ✨✨✨
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_push_swap">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="Push_Swap repo">
+        </a><br>
+        Push_Swap - 84 / 100 ✅ 
+      </td>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_philosophers">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" alt="Philosophers repo">
+        </a><br>
+        Philosophers - 100/100 ✅ ✨
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_minishell">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="Minishell repo">
+        </a><br>
+        Minishell - 101/100 ✅ ✨
+      </td>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_cub3d">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" alt="Cube3d repo">
+        </a><br>
+        Cub3D - 125/100 ✅ ✨✨✨
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
