@@ -132,12 +132,18 @@
         Cpp03 - WIP - 🔁
       </td>
     </tr>
-    <tr colspan="2">
+    <tr>
       <td align="center">
         <a href="https://github.com/CodeWithCharles/42_cpp_04">
           <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppn.png" alt="Cpp04 repo">
         </a><br>
         Cpp04 - WIP - 🔁
+      </td>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/netpractice">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticen.png" alt="Netpractice repo">
+        </a><br>
+        Netpractice - WIP - 🔁
       </td>
     </tr>
   </tbody>
