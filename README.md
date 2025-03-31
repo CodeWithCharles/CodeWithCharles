@@ -104,6 +104,42 @@
         Cub3D - 125/100 ✅ ✨✨✨
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_cpp_00">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="Cpp00 repo">
+        </a><br>
+        Cpp00 - 100/100 ✅ ✨✨
+      </td>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_cpp_01">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="Cpp01 repo">
+        </a><br>
+        Cpp01 - WIP - 🔁
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_cpp_02">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="Cpp02 repo">
+        </a><br>
+        Cpp02 - WIP - 🔁
+      </td>
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_cpp_03">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="Cpp03 repo">
+        </a><br>
+        Cpp03 - WIP - 🔁
+      </td>
+    </tr>
+    <tr colspan="2">
+      <td align="center">
+        <a href="https://github.com/CodeWithCharles/42_cpp_04">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="Cpp04 repo">
+        </a><br>
+        Cpp04 - WIP - 🔁
+      </td>
+    </tr>
   </tbody>
 </table>
 
