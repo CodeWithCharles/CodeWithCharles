@@ -113,7 +113,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/CodeWithCharles/42_cpp_01">
-          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppn.png" alt="Cpp01 repo">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="Cpp01 repo">
         </a><br>
         Cpp01 - 100/100 ✅ ✨✨
       </td>
@@ -121,13 +121,13 @@
     <tr>
       <td align="center">
         <a href="https://github.com/CodeWithCharles/42_cpp_02">
-          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppn.png" alt="Cpp02 repo">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="Cpp02 repo">
         </a><br>
         Cpp02 - 100/100 ✅ ✨✨
       </td>
       <td align="center">
         <a href="https://github.com/CodeWithCharles/42_cpp_03">
-          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppn.png" alt="Cpp03 repo">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="Cpp03 repo">
         </a><br>
         Cpp03 - 100/100 ✅ ✨
       </td>
@@ -135,13 +135,13 @@
     <tr>
       <td align="center">
         <a href="https://github.com/CodeWithCharles/42_cpp_04">
-          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppn.png" alt="Cpp04 repo">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="Cpp04 repo">
         </a><br>
         Cpp04 - 100/100 ✅ ✨✨
       </td>
       <td align="center">
         <a href="https://github.com/CodeWithCharles/42_netpractice">
-          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticen.png" alt="Netpractice repo">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" alt="Netpractice repo">
         </a><br>
         Netpractice - 100/100 ✅ ✨✨✨
       </td>
