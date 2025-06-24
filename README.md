@@ -154,7 +154,7 @@
         ft_irc - 125/100 ✅ ✨✨✨
       </td>
       <td align="center">
-        <a href="https://github.com/ft_preavis">
+        <a href="https://github.com/ftpreavis">
           <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencem.png" alt="Transcendance organization">
         </a><br>
         Transcendance - 125/100 ✅ ✨✨✨
