@@ -146,6 +146,20 @@
         Netpractice - 100/100 ✅ ✨✨✨
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/JeremyCheron/42_ft_irc">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_ircm.png" alt="Irc repo">
+        </a><br>
+        ft_irc - 125/100 ✅ ✨✨✨
+      </td>
+      <td align="center">
+        <a href="https://github.com/ft_preavis">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencem.png" alt="Transcendance organization">
+        </a><br>
+        Transcendance - 125/100 ✅ ✨✨✨
+      </td>
+    </tr>
   </tbody>
 </table>
 
